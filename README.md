@@ -73,7 +73,7 @@ Support Us!
 
 Support our development efforts by donating to the darkwallet multisig:
 
- 31oSGBBNrpCiENH3XMZpiP6GTC4tad4bMy
+ bc1qujzg4h8lsdhwh5c0he4dahz9pfl6afrjrka47n
 
 --
 
